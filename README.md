@@ -6,9 +6,9 @@
 - 📫 You can reach me by [This Email](mailto:amirhosseinfr79@gmail.com)
 
 ## My Public Projects
-- [Auto Proxy Setup](https://github.com/amirhosseinf79/Proxy-Setup)
-- [Pixel Intelligence ](https://github.com/amirhosseinf79/PiXel-Intelligence)
-- [Discord Music Bot](https://github.com/amirhosseinf79/ExtraBot-blog)
+- [Proxy Auto Setup](https://github.com/amirhosseinf79/Proxy-Setup)
+- [Pixel Intelligence ](https://amirhosseinf79.github.io/PiXel-Intelligence)
+- [Discord Music Bot](https://amirhosseinf79.github.io/ExtraBot-blog)
 - [Movie Category Manager](https://github.com/amirhosseinf79/MovieCategoryManager)
 
 <!---
