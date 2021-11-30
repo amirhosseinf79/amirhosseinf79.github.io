@@ -3,7 +3,7 @@
 - 👀 I’m interested in Programming specially python
 - 🌱 I’m currently learning Python Django
 - 💞️ I’m looking to collaborate on Google
-- 📫 YYou can reach me by [This Email](mailto:amirhosseinfr79@gmail.com)
+- 📫 You can reach me by [This Email](mailto:amirhosseinfr79@gmail.com)
 
 ## My Public Projects
 - [Auto Proxy Setup](https://github.com/amirhosseinf79/Proxy-Setup)
