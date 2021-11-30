@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming specially python
 - 🌱 I’m currently learning Python Django
 - 💞️ I’m looking to collaborate on Google
-- 📫 YYou can reach me by [This Email](mailto:amirhosseinfr79@gmail.com)
+- 📫 You can reach me by [This Email](mailto:amirhosseinfr79@gmail.com)
 
 <!---
 amirhosseinf79/amirhosseinf79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
