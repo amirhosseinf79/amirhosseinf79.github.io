@@ -6,7 +6,7 @@
 - 📫 You can reach me by [This Email](mailto:amirhosseinfr79@gmail.com)
 
 ## My Public Projects
-- [Pixel Intelligence ](https://amirhosseinf79.github.io/PiXel-Intelligence)
+- [Smart Intelligence](http://my-smart.ddns.net)
 - [Discord Music Bot](https://amirhosseinf79.github.io/ExtraBot-blog)
 - [Movie Category Manager](https://github.com/amirhosseinf79/MovieCategoryManager)
 - [Proxy Auto Setup](https://github.com/amirhosseinf79/Proxy-Setup)
